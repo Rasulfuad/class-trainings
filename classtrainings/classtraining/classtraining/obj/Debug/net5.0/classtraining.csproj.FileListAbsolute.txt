@@ -1,0 +1,16 @@
+F:\classmesq\classtraining\classtraining\bin\Debug\net5.0\classtraining.exe
+F:\classmesq\classtraining\classtraining\bin\Debug\net5.0\classtraining.deps.json
+F:\classmesq\classtraining\classtraining\bin\Debug\net5.0\classtraining.runtimeconfig.json
+F:\classmesq\classtraining\classtraining\bin\Debug\net5.0\classtraining.runtimeconfig.dev.json
+F:\classmesq\classtraining\classtraining\bin\Debug\net5.0\classtraining.dll
+F:\classmesq\classtraining\classtraining\bin\Debug\net5.0\classtraining.pdb
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.csproj.AssemblyReference.cache
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.GeneratedMSBuildEditorConfig.editorconfig
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.AssemblyInfoInputs.cache
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.AssemblyInfo.cs
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.csproj.CoreCompileInputs.cache
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.dll
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\refint\classtraining.dll
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.pdb
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\classtraining.genruntimeconfig.cache
+F:\classmesq\classtraining\classtraining\obj\Debug\net5.0\ref\classtraining.dll
